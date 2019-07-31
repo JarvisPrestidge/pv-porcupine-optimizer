@@ -1,0 +1,22 @@
+{
+    "extends": [
+        "tslint:recommended",
+        "tslint-plugin-prettier",
+        "tslint-config-prettier"
+    ],
+    "rules": {
+        "forin": false,
+        "array-type": false,
+        "member-ordering": false,
+        "radix": false,
+        "no-console": false,
+        "no-bitwise": false,
+        "no-shadowed-variable": false,
+        "ordered-imports": false,
+        "no-empty-interface": false,
+        "no-floating-promises": true,
+        "object-literal-sort-keys": false,
+        "no-unused-expression": { "options": "allow-new" },
+        "prefer-const": [true, { "destructuring": "all" }]
+    }
+}

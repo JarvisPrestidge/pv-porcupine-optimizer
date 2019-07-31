@@ -1,0 +1,20 @@
+# Dependency directories
+node_modules
+
+# Transpiled js
+dist
+
+# Static assets
+static
+
+# Static assets
+.cache
+
+# Environment variables
+.env
+
+# CSV
+.csv
+
+# todos
+.todo

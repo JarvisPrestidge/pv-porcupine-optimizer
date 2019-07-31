@@ -1,0 +1,18 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "target": "es2019",
+        "module": "commonjs",
+        "outDir": "dist",
+        "rootDir": "src",
+        "sourceMap": false,
+        "strict": true,
+        "pretty": true,
+        "declaration": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true
+    },
+    "include": [
+        "src"
+    ]
+}
